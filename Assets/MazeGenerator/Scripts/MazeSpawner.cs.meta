@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4dbd480039f60a344bdc0ff90b9d70b5
+AssetOrigin:
+  serializedVersion: 1
+  productId: 38689
+  packageName: Maze Generator
+  packageVersion: 1.0
+  assetPath: Assets/MazeGenerator/Scripts/MazeSpawner.cs
+  uploadId: 66852
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Floor: {fileID: 165842, guid: 8d3b36f175a633f429d7bda54c76550d, type: 3}
+  - Wall: {instanceID: 0}
+  - Pillar: {instanceID: 0}
+  - GoalPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
